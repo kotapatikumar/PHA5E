@@ -1,0 +1,80 @@
+
+body{
+    background-color: #2d2c2c;
+    font-family:Arial, Helvetica, sans-serif
+}
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  .title{
+    position:absolute;
+    top:-3%;
+    left:1%;
+    font-weight:900;
+    text-shadow:2px 2px 1px black;
+  }
+
+.heroSection{
+    position:relative;
+    height:100vh;
+    color:white;
+    display:flex;
+    justify-content: center;
+    align-items:center
+}
+
+
+
+.allImages{
+    height:220px;
+    width:340px;
+}
+.image1{
+    position:absolute;
+    top:85%;
+    left:15%;
+}
+.image2{
+    position:absolute;
+    top:14%;
+    left:51%;
+}
+.image3{
+    position:absolute;
+    top:26%;
+    left:11%;
+}
+.image4{
+    position:absolute;
+    top:75%;
+    left:57%;
+}
+.head{
+    position:absolute;
+    top:7%;
+    left:22%;
+    line-height:98px; 
+    font-weight:900;
+    text-shadow:2px 2px 1px black;
+    letter-spacing:7px;
+    height: 40px;
+    transition:color 0.5s ease;
+    font-family: 'Montserrat', system-ui, -apple-system, sans-serif;
+    letter-spacing: 0.02em;
+    line-height: 0.9;
+    font-size:650%;
+    z-index: 1;
+    color:white;
+}
+
+
+
+
+
+
+
+
+
+ 
